@@ -37,4 +37,7 @@ workOption.onclick = function () {
   code.value = workCode;
 };
 
+homeOption.checked = true;
+homeOption.onclick();
+
 
